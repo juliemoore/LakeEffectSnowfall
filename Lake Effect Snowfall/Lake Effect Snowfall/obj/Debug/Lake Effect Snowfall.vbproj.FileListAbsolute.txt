@@ -1,0 +1,11 @@
+F:\CCC\INFO 1800\Chapter 06\Lake Effect Snowfall\Lake Effect Snowfall\bin\Debug\Lake Effect Snowfall.exe.config
+F:\CCC\INFO 1800\Chapter 06\Lake Effect Snowfall\Lake Effect Snowfall\bin\Debug\Lake Effect Snowfall.exe
+F:\CCC\INFO 1800\Chapter 06\Lake Effect Snowfall\Lake Effect Snowfall\bin\Debug\Lake Effect Snowfall.pdb
+F:\CCC\INFO 1800\Chapter 06\Lake Effect Snowfall\Lake Effect Snowfall\bin\Debug\Lake Effect Snowfall.xml
+F:\CCC\INFO 1800\Chapter 06\Lake Effect Snowfall\Lake Effect Snowfall\obj\Debug\Lake Effect Snowfall.vbprojResolveAssemblyReference.cache
+F:\CCC\INFO 1800\Chapter 06\Lake Effect Snowfall\Lake Effect Snowfall\obj\Debug\Lake_Effect_Snowfall.frmSnowfall.resources
+F:\CCC\INFO 1800\Chapter 06\Lake Effect Snowfall\Lake Effect Snowfall\obj\Debug\Lake_Effect_Snowfall.Resources.resources
+F:\CCC\INFO 1800\Chapter 06\Lake Effect Snowfall\Lake Effect Snowfall\obj\Debug\Lake Effect Snowfall.vbproj.GenerateResource.Cache
+F:\CCC\INFO 1800\Chapter 06\Lake Effect Snowfall\Lake Effect Snowfall\obj\Debug\Lake Effect Snowfall.exe
+F:\CCC\INFO 1800\Chapter 06\Lake Effect Snowfall\Lake Effect Snowfall\obj\Debug\Lake Effect Snowfall.xml
+F:\CCC\INFO 1800\Chapter 06\Lake Effect Snowfall\Lake Effect Snowfall\obj\Debug\Lake Effect Snowfall.pdb
